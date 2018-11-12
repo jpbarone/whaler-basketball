@@ -1,9 +1,11 @@
 body {
   background-color: #4863A0;
+  height: 100%;
+  width: 100%;
 }
 
 .leftnav {
-  width: 100px;
+  width: 10%;
   display: flex;
   justify-content: center;
   background-color: grey;
@@ -14,7 +16,7 @@ body {
 
 
 .rightnav {
-  width: 1200px;
+  width: 90%;
   display: flex;
   justify-content: flex-end;
 }
@@ -25,13 +27,13 @@ body {
   background-color: black;
   border: 2px solid grey;
   text-decoration: none;
-  width: 1200px;
+  width: 100%;
 }
 
 .box {
   display: flex;
   justify-content: space-around;
-  width: 500px;
+  width: 100%;
 }
 
 .home > a {
@@ -46,20 +48,24 @@ a:hover {
 
 .title {
   color: white;
-  width: 1200px;
+  width: 100%;
   text-align: center;
 }
 
 .main2 {
   height: 500px;
-  width: 1190px;
+  width: 100%;
   display: flex;
   background-image: url("court.jpg");
   background-size: 1200px 500px;
 }
 
+.main {
+  width: 100%;
+}
+
 .roster {
-  width: 600px;
+  width: 50%;
   height: 500px;
   display: flex;
   justify-content: center;
@@ -68,7 +74,7 @@ a:hover {
 
 .twitter {
   height: 500px;
-  width: 600px;
+  width: 50%;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -76,7 +82,7 @@ a:hover {
 
 .adbox {
   height: 100px;
-  width: 1200px;
+  width: 100%;
   display: flex;
   justify-content: space-around;
 }
@@ -93,5 +99,5 @@ a:hover {
 
 .coach {
   text-align: center;
-  width: 1200px;
+  width: 100%;
 }
