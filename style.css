@@ -1,0 +1,91 @@
+body {
+  background-color: #4863A0;
+}
+
+.leftnav {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  background-color: grey;
+}
+
+
+
+
+
+.rightnav {
+  width: 1200px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav {
+  display: flex;
+  color: white;
+  background-color: black;
+  border: 2px solid grey;
+  text-decoration: none;
+}
+
+.box {
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+}
+
+.home > a {
+  text-decoration: none;
+  color: white;
+}
+
+
+a:hover {
+  color: blue;
+}
+
+.title {
+  color: white;
+  width: 1200px;
+  text-align: center;
+}
+
+.main2 {
+  height: 500px;
+  width: 1190px;
+  display: flex;
+  background-image: url("img/court.jpg");
+  background-size: 1200px 500px;
+}
+
+.roster {
+  width: 600px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.twitter {
+  height: 500px;
+  width: 600px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.adbox {
+  height: 200px;
+  width: 1200px;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.ad {
+  background-color: grey;
+  height: 75px;
+  width: 200px;
+  text-align: center;
+  margin-top: 20px;
+  border: 2px solid black;
+}
