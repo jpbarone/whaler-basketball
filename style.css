@@ -25,6 +25,7 @@ body {
   background-color: black;
   border: 2px solid grey;
   text-decoration: none;
+  width: 1200px;
 }
 
 .box {
