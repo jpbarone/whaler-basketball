@@ -27,7 +27,7 @@ body {
   background-color: black;
   border: 2px solid grey;
   text-decoration: none;
-  width: 100%;
+  width: 98%;
 }
 
 .box {
@@ -54,7 +54,7 @@ a:hover {
 
 .main2 {
   height: 500px;
-  width: 100%;
+  width: 99%;
   display: flex;
   background-image: url("court.jpg");
   background-size: 1200px 500px;
