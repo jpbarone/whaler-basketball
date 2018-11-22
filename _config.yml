@@ -1,3 +1,2 @@
-url: https://jpbarone.github.io/whaler-basketball/
-gems:
+plugins:
   - jekyll-seo-tag
