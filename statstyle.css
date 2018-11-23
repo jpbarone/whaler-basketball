@@ -61,9 +61,14 @@ h1 {
   height: 500px;
   width: 100%;
   display: flex;
-  background-image: url("court.jpg");
+  background-image: url("img/court.jpg");
   background-size: 98% 500px;
   background-repeat: no-repeat;
-  justify-content: center;
   align-items: center;
+}
+
+.stats {
+  width: 97%;
+  display: flex;
+  justify-content: center;
 }
