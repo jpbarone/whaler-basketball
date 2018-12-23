@@ -40,6 +40,7 @@ h4 {
 
 .sponser {
   text-align: center;
+  color: white;
 }
 
 .home > a {
@@ -103,9 +104,6 @@ a:hover {
   width: 250px;
   border-radius: 20px;
 
-.sponser {
-  color: white;
- }
 
 .ad {
   background-color: grey;
