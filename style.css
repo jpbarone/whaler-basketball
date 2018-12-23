@@ -36,6 +36,10 @@ body {
   width: 100%;
 }
 
+.sponser {
+  text-align: center;
+}
+
 .home > a {
   text-decoration: none;
   color: white;
