@@ -103,6 +103,9 @@ a:hover {
   width: 250px;
   border-radius: 20px;
 
+.sponser {
+  color: white;
+ }
 
 .ad {
   background-color: grey;
@@ -114,8 +117,9 @@ a:hover {
 }
 
 .coach {
-  text-align: center;
+  display: block;
   width: 100%;
+  color: white;
 }
 
 .fa {
