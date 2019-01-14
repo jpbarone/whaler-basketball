@@ -1,0 +1,77 @@
+.gallery {
+  width: 150px;
+  height: 140px;
+}
+
+th {
+  font-size: 2em;
+  background-color: grey;
+  padding: 20px;
+}
+
+body {
+  background-color: #4863A0;
+  height: 100%;
+  width: 100%;
+}
+
+table {
+  background-color: white;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+td {
+  padding: 25px;
+}
+
+#instructions {
+  font-style: italic;
+  text-align: center;
+}
+
+.nav {
+  display: flex;
+  color: white;
+  background-color: black;
+  border: 2px solid grey;
+  text-decoration: none;
+  width: 98%;
+}
+
+.leftnav {
+  width: 10%;
+  display: flex;
+  justify-content: center;
+  background-color: grey;
+}
+
+h4 {
+  text-align: center;
+}
+
+
+
+.rightnav {
+  width: 90%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+
+a:hover {
+  color: blue;
+}
+
+.box {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
